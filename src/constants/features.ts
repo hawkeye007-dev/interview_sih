@@ -27,7 +27,7 @@ export const FEATURES = [
     },
     {
         title: "Real-Time Coaching",
-        description: "Get instant feedback and tips during your mock interviews to improve on the spot",
+        description: "Get instant feedback and tips during your interviews to improve on the spot",
         icon: ZapIcon,
         image: "/images/feature-four.svg",
     }

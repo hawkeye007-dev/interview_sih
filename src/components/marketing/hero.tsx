@@ -51,22 +51,22 @@ const Hero = () => {
                                 <span className="px-2 py-[0.5px] h-[18px] tracking-wide flex items-center justify-center rounded-full bg-gradient-to-r from-sky-400 to-blue-600 text-[9px] font-medium mr-2 text-white">
                                     NEW
                                 </span>
-                                Explore our innovation in tech 
+                                Ace interviews with us !
                             </span>
                         </button>
                     </Container>
                     <Container delay={0.15}>
                         <h1 className="text-4xl md:text-4xl lg:text-7xl font-bold text-center !leading-tight max-w-4xl mx-auto">
-                            Transform your {" "}
+                            Crack your {" "}
                             <span className="">
                                 Interviews  {" "}
                             </span>
-                            with AI as your Buddy
+                            with our platform
                         </h1>
                     </Container>
                     <Container delay={0.2}>
                         <p className="max-w-xl mx-auto mt-2 text-base lg:text-lg text-center text-muted-foreground">
-                            AI-powered mock interviews with latest tech stacks learning envirornment !
+                            Connect with your campus placements in the best way possible. Practice mock interviews, get AI-powered feedback, and improve your resume to land your dream job.    
                         </p>
                     </Container>
                     <Container delay={0.25} className="z-20">

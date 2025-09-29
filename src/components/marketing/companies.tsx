@@ -7,7 +7,7 @@ const Companies = () => {
             <Container>
                 <div className="flex flex-col items-center justify-center">
                     <h4 className="text-2xl lg:text-4xl font-medium">
-                        Crack <span className="font-subheading italic">FAANG LIKE</span> Companies !
+                        Crack <span className="font-subheading italic">TOP</span> Companies in your college itself !
                     </h4>
                 </div>
             </Container>

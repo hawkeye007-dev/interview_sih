@@ -12,7 +12,7 @@ const HomePage = () => {
             <Companies />
             <Features />
             {/* <Analysis /> */}
-            <Pricing />
+            {/* <Pricing /> */}
         </Wrapper>
     )
 };

@@ -4,15 +4,15 @@ export const DASHBOARD_NAV_LINKS = [
         href: "/dashboard"
     },
     {
-        name: "MockInterviews",
+        name: "Campus listings",
         href: "/dashboard/mock-interviews"
     },
     {
-        name: "NonVocabs",
+        name: "NonVocabs training",
         href: "/dashboard/non-vocabs"
     },
     {
-        name: "Practice",
+        name: "Practice questions",
         href: "/dashboard/practice"
     },
     {
@@ -20,7 +20,7 @@ export const DASHBOARD_NAV_LINKS = [
         href: "/dashboard/ai-tutor-pro"
     },
     {
-        name: "ResumeChecker",
+        name: "ResumeChecker by college",
         href: "/dashboard/resume-checker"
     },
     {
